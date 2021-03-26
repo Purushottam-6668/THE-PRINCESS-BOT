@@ -19,7 +19,7 @@
          "required": true
       },
       "TL_HASH": {
-         "description": "💫Get this value from my.telegram.org! Please do not steal💫. "
+         "description": "💫Get this value from my.telegram.org! Please do not steal💫.",
          "value": "",
          "required": true
       },
@@ -48,7 +48,7 @@
          "value": "ANYTHING"
       },
       "KICK_STICKER": {
-         "description": "💫ID of the sticker you want to use when kicking people.",
+         "description": "💫ID of the sticker you want to use when kicking people.💫",
          "required": false,
          "value": ""
       },
