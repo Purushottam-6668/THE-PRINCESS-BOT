@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <p align="center">
-<a href="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT"><img src="https://telegra.ph/file/79b6e92a2bc2e845cc611.jpg" alt="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT" height=300px, width=720px></a>
+<a href="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT"><img src="https://telegra.ph/file/ae891276147529dac48ab.jpg" alt="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT" height=300px, width=720px></a>
 <br>
    
 <br>
@@ -14,7 +14,7 @@
 - 🔭 CODE OWNER (DEVLOPER)[`𓊈𒆜𝙼𝚛_𝙿𝚞𝚛𝚞𝚜𝚑𝚘𝚝𝚝𝚊𝚖𒆜𓊉`](http://t.me/Mr_Purushottam_M)
 - 💠 CURRENTLY OWNER AT [`LIBRARIAN_INSTITUTE`](https://t.me/Channel_Librarian)
 - 💠 CO OWNER OF LIBRARIAN [`ANIMESH VERMA`](https://t.me/AniMesH941)
- - 💠 MY FRIEND `[SANGRAAM`](https://t.me/sangramghangale)
+ - 💠 MY FRIEND [`SANGRAAM`](https://t.me/sangramghangale)
 - 💠 SUPPORT GROUP FOR [`𓊈𒆜Princess Support𒆜𓊉`](https://t.me/PRINCESS_SUPPORT)
 - 📫 SUCCESSED VERSION OF PRINCESS **Telegram -[`𓊈𒆜𝙿𝚁𝙸𝙽𝙲𝙴𝚂𝚂𒆜𓊉`](https://t.me/The_Princess2_Bot)**
 
