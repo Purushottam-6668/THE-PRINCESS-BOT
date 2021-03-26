@@ -1,0 +1,339 @@
+{
+
+   "addons": [
+
+      {
+
+         "options": {
+
+            "version": "12"
+
+         },
+
+         "plan": "heroku-postgresql"
+
+      }
+
+   ],
+
+   "description": "💫👨‍💻Modular Telegram bot for managing your groups with a few extras features.💫 by t.me/mr_purushottam_m ",
+
+   "env": {
+
+      "ALLOW_EXCL": {
+
+         "description": "💫Set this to True if you want ! to be a command prefix along with /💫",
+
+         "value": "True"
+
+      },
+
+      "TL_APP_ID": {
+
+         "description": "💫Get this value from my.telegram.org! Please do not steal💫",
+
+         "value": "",
+
+         "required": true
+
+      },
+
+      "TL_HASH": {
+
+         "description": "💫Get this value from my.telegram.org! Please do not steal💫. "
+
+         "value": "",
+
+         "required": true
+
+      },
+
+      "BAN_STICKER": {
+
+         "description": "💫ID of the sticker you want to use when banning people.💫",
+
+         "required": false,
+
+         "value": ""
+
+      },
+
+      "MESSAGE_DUMP": {
+
+         "description": "💫optional: a chat where your replied saved messages are stored, to stop people deleting their old💫",
+
+         "required": false,
+
+         "value": ""   
+
+      },
+
+      "DEL_CMDS": {
+
+         "description": "💫Set this to True if you want to delete command messages from users who don't have the perms to run that command.💫",
+
+         "value": "False"
+
+         
+
+      },
+
+      "GBAN_LOGS": { 
+
+         "description": "💫Gban log channel, include the hyphen too: ex: -123456💫",
+
+         "required": false,
+
+         "value": "" 
+
+      },
+
+      "ENV": {
+
+         "description": "💫Setting this to ANYTHING will enable environment variables💫.",
+
+         "value": "ANYTHING"
+
+      },
+
+      "KICK_STICKER": {
+
+         "description": "💫ID of the sticker you want to use when kicking people.",
+
+         "required": false,
+
+         "value": ""
+
+      },
+
+      "SQLALCHEMY_DATABASE_URI": {
+
+         "description": "💫Your postgres sql db, empty this field if you dont have one.💫",
+
+         "required": false,
+
+         "value": "sqldbtype://username:pw@hostname:port/db_name"
+
+      },      
+
+      "OWNER_ID": {
+
+         "description": "💫Your user ID as an integer💫.",
+
+         "value": "1711642802"
+
+      },
+
+      "OWNER_NAME": {
+
+         "description": "👨‍💻💫Your Name💫👨‍💻",
+
+         "value": "Mr_Purushottam_M"
+
+      },
+
+      "DEV_USERS": {
+
+         "description": "💫ID of users who are Dev (can use /py etc.)💫",
+
+         "required": false,
+
+         "value": "1633768933 1711642802"
+
+      },
+
+      "CASH_API_KEY": {
+
+         "description": "💫Required for currency converter💫",
+
+         "required": false,
+
+         "value": "J7RLCVG6JY40GE36"
+
+      },
+
+      "TIME_API_KEY": {
+
+         "description": "💫Required for timezone information💫",
+
+         "value": "P6ITXLK357XD"
+
+      },
+
+       "LASTFM_API_KEY": {
+
+         "description": "💫Required for lastfm plugin💫",
+
+         "value": "-xyz"
+
+      },
+
+       "START_IMG": {
+
+         "description": "💫Image shows when hit /start💫",
+
+         "value": "https://telegra.ph/file/511ad504656e712b88235.jpg"    
+
+      },
+
+      "API_OPENWEATHER": {
+
+         "description": "💫Required for weather information💫",
+
+         "value": "7be38eeb45aa07a3a183ea3c5015620f"
+
+      },
+
+      "PORT": {
+
+         "description": "💫Port to use for your webhooks.💫",
+
+         "required": false,
+
+         "value": ""
+
+      },
+
+      "STRICT_GBAN": {
+
+         "description": "💫 Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.💫",
+
+         "value": "True"
+
+      },
+
+        
+
+      "STRICT_GMUTE": {
+
+         "description": "💫 Enforce gmute across new groups as well as old groups. When a gmutes user talks, he will be muted💫 ",
+
+         "value": "True"
+
+      },
+
+      "SUDO_USERS": {
+
+         "description": " 💫 A space separated list of user IDs who you want to assign as sudo users.💫",
+
+         "required": false,
+
+         "value": "1633768933 1711642802"
+
+      },
+
+      "SUPPORT_USERS": {
+
+         "description": "💫 A space separated list of user IDs who you wanna assign as support users(gban perms only).💫 ",
+
+         "required": false,
+
+         "value": "1633768933 1711642802"
+
+      },
+
+     
+
+      "TOKEN": {
+
+         "description": "💫Your bot token.💫",
+
+         "required": true,
+
+         "value": ""
+
+      },
+
+      "URL": {
+
+         "description": "💫The Heroku App URL :-  https://<appname>.herokuapp.com/💫" ,
+
+         "required": false,
+
+         "value": ""
+
+      },
+
+      "WEBHOOK": {
+
+         "description": "💫Setting this to ANYTHING will enable webhooks.💫",
+
+         "required": false,
+
+         "value": ""
+
+      },
+
+      "WHITELIST_USERS": {
+
+         "description": "💫A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.💫",
+
+         "required": false,
+
+         "value": "1633768933 1711642802"
+
+      },
+
+      "WALL_API":{
+
+         "description": "💫Enter wall api💫",
+
+         "required": false,
+
+         "value": ""
+
+      },
+
+      "LYDIA_API": {
+
+         "description": "💫 Put here lydia API 💫",
+
+         "required": false,
+
+         "value": "3079ff9802bfa9b8be13dc91ecf8a3f6b6b8ad1547ce33034cf51941f31a0f0e07cdf536221a6c4917e73ecb6826a86aae541525edae7c4b47ee5f19b9e9d75c"
+
+      }
+
+   },
+
+   "keywords": [
+
+      "telegram",
+
+      "weeb",
+
+      "group",
+
+      "manager",
+
+      "PRINCESS"
+
+      
+
+   ],
+
+   "buildpacks": [
+
+    {
+
+      "url": "https://github.com/heroku/heroku-buildpack-python"
+
+    },
+
+    {
+
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+    }
+
+  ],
+
+   "name": "𓊈𒆜PRINCESS𒆜𓊉",
+
+   "repository": "https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT",
+
+   "success_url": "https://t.me/ The_Princess2_Bot",
+
+   "logo": "https://telegra.ph/file/511ad504656e712b88235.jpg"
+
+}
