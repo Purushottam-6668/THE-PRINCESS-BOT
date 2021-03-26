@@ -2,13 +2,13 @@
 <p align="center">
 <br>
 <p align="center">
-<a href="https://github.com/PURHSHOTTAM/PRINCESS"><img src="https://telegra.ph/file/79b6e92a2bc2e845cc611.jpg" alt="https://github.com/PURHSHOTTAM/PRINCESS" height=300px, width=720px></a>
+<a href="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT"><img src="https://telegra.ph/file/79b6e92a2bc2e845cc611.jpg" alt="https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT" height=300px, width=720px></a>
 <br>
    
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PURUSHOTTAM&label=Profile%20views&color=0e75b6&style=plastic" alt="PURUSHOTTAM" /> </p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/PRINCESS)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT)
 
 # CREDITS 
 - 🔭 CODE OWNER (DEVLOPER)[`𓊈𒆜𝙼𝚛_𝙿𝚞𝚛𝚞𝚜𝚑𝚘𝚝𝚝𝚊𝚖𒆜𓊉`](http://t.me/Mr_Purushottam_M)
