@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "Modular Telegram bot for managing your groups with a few extras features.",
+   "description": "💫👨‍💻Modular Telegram bot for managing your groups with a few extras features.💫",
    "env": {
       "ALLOW_EXCL": {
          "description": "💫 SET THIS TO TRUE IF YOU WANT ! TO be A COMMAND PREFIX ALONG WITH /. RECOMMENDED IS TRUE💫",
@@ -164,7 +164,7 @@
     }
   ],
    "name": "𓊈𒆜PRINCESS𒆜𓊉",
-   "repository": "https://github.com/.           ",
+   "repository": "https://github.com/PURHSHOTTAM/THE-PRINCESS-BOT",
    "success_url": "https://telegram.dog/The_Princess2_Bot", 
    "logo": "https://telegra.ph/file/2e147376a5953bbd6cf3c.jpg"
 }
